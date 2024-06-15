@@ -118,3 +118,12 @@ footer {
     align-items: center;
     color: #242424;
 }
+
+@media(max-width: 425px) {
+
+    main,
+    ul#suggestions,
+    .busca {
+        width: 300px;
+    }
+}
