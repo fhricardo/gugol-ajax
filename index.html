@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gúgol - O seu achador de coisas...</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/old.js" defer></script>
+</head>
+
+<body>
+    <main>
+        <div class="busca">
+            <div class="logo">
+                <img src="assets/gugol-logo.svg" alt="Logo Gúgol">
+            </div>
+            <input type="text" name="search" id="search" placeholder="O que você quer achar?">
+            <img src="assets/magnifying-glass-solid.svg" alt="" class="lupa">
+        </div>
+
+        <ul id="suggestions"></ul>
+        <div id="definition">
+        </div>
+    </main>
+    <footer>
+        <p>&copy;<span id="ano"></span>. Gúgol. Desenvolvido por Flávio Ricardo.</p>
+    </footer>
+    <script>
+        const ano = document.getElementById('ano')
+        let A = new Date()
+        ano.innerHTML = A.getFullYear()
+    </script>
+
+</body>
+
+</html>

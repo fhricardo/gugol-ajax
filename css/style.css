@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: #fafafa;
+    position: relative;
+}
+
+main {
+    width: 500px;
+    height: 162px;
+    margin-top: 250px;
+    position: relative;
+}
+
+.busca {
+    width: 500px;
+    height: 162px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    position: relative;
+}
+
+.logo {
+    width: 200px;
+    height: 78px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+input[type="text"] {
+    width: 100%;
+    height: 44px;
+    border: none;
+    border-radius: 22px;
+    box-shadow: 0px 0px 8px #24242440;
+    font-size: 16px;
+    padding-left: 48px;
+    outline: none;
+    z-index: 10;
+
+}
+
+.lupa {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: 130px;
+    left: 10px;
+    z-index: 20;
+}
+
+ul#suggestions {
+    width: 500px;
+    max-height: calc(9 * 44px);
+    position: absolute;
+    top: 140px;
+    border-radius: 0px 0px 22px 22px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 8px #24242440;
+    z-index: 9;
+    overflow: auto;
+    list-style: none;
+    padding-top: 22px;
+    transition: .5s;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+}
+
+
+ul#suggestions li {
+    height: 44px;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 0px 22px 22px 0px;
+    transition: .5s;
+}
+
+ul#suggestions li:hover {
+    background-color: lightblue;
+}
+
+#definition {
+    width: 500px;
+    padding: 16px;
+    font-size: 1.2rem;
+}
+
+#definition strong {
+    text-transform: capitalize;
+}
+
+footer {
+    width: 100%;
+    height: 96px;
+    background-color: #ececec;
+    position: fixed;
+    bottom: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #242424;
+}

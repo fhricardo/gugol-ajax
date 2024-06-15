@@ -1,0 +1,642 @@
+[
+    {
+        "word": "abacate",
+        "meaning": "Fruto da árvore do abacateiro, comestível, de polpa verde-amarelada e semente grande."
+    },
+    {
+        "word": "abelha",
+        "meaning": "Inseto que produz mel e cera e que vive em colmeias organizadas."
+    },
+    {
+        "word": "abraço",
+        "meaning": "Ato de envolver outra pessoa com os braços como forma de cumprimento ou carinho."
+    },
+    {
+        "word": "árvore",
+        "meaning": "Planta de grande porte com caule lenhoso, que se ramifica a certa altura do solo."
+    },
+    {
+        "word": "amizade",
+        "meaning": "Relação de afeto, estima e solidariedade entre pessoas."
+    },
+    {
+        "word": "alegria",
+        "meaning": "Sentimento de contentamento, satisfação ou prazer."
+    },
+    {
+        "word": "amor",
+        "meaning": "Sentimento profundo de afeição, carinho e zelo por alguém ou algo."
+    },
+    {
+        "word": "aula",
+        "meaning": "Sessão de ensino em uma escola, universidade ou instituição similar."
+    },
+    {
+        "word": "animal",
+        "meaning": "Ser vivo que se alimenta de substâncias orgânicas e possui capacidade de locomoção."
+    },
+    {
+        "word": "arco-íris",
+        "meaning": "Fenômeno óptico que forma um arco multicolorido no céu quando a luz do sol passa por gotas de chuva."
+    },
+    {
+        "word": "avenida",
+        "meaning": "Via urbana larga, geralmente com várias faixas de tráfego e calçadas."
+    },
+    {
+        "word": "avião",
+        "meaning": "Aeronave com asas fixas, movida por motores, usada para transporte de passageiros ou carga."
+    },
+    {
+        "word": "água",
+        "meaning": "Substância líquida transparente, sem cheiro e sem sabor, essencial para a vida."
+    },
+    {
+        "word": "açúcar",
+        "meaning": "Substância doce obtida principalmente da cana-de-açúcar, usada para adoçar alimentos e bebidas."
+    },
+    {
+        "word": "arroz",
+        "meaning": "Grão comestível, base alimentar em muitas culturas, especialmente na Ásia."
+    },
+    {
+        "word": "abacaxi",
+        "meaning": "Fruto tropical, de casca dura e espinhosa, polpa suculenta e sabor ácido-doce."
+    },
+    {
+        "word": "abrir",
+        "meaning": "Fazer com que algo deixe de estar fechado."
+    },
+    {
+        "word": "azul",
+        "meaning": "Cor que se assemelha ao céu sem nuvens durante o dia."
+    },
+    {
+        "word": "amarelo",
+        "meaning": "Cor que se assemelha ao ouro ou ao sol."
+    },
+    {
+        "word": "almoço",
+        "meaning": "Refeição principal do dia, geralmente consumida ao meio-dia."
+    },
+    {
+        "word": "andar",
+        "meaning": "Mover-se utilizando os pés como meio de locomoção."
+    },
+    {
+        "word": "água-viva",
+        "meaning": "Animal marinho do filo dos cnidários, de corpo gelatinoso e tentáculos urticantes."
+    },
+    {
+        "word": "amendoim",
+        "meaning": "Semente comestível da planta de mesmo nome, muito utilizada em culinária."
+    },
+    {
+        "word": "alcachofra",
+        "meaning": "Planta comestível de folhas carnosas e sabor amargo, cultivada como hortaliça."
+    },
+    {
+        "word": "açougue",
+        "meaning": "Estabelecimento comercial onde se vende carne."
+    },
+    {
+        "word": "anel",
+        "meaning": "Aro de metal ou outro material, usado como adorno nos dedos das mãos."
+    },
+    {
+        "word": "alfabeto",
+        "meaning": "Conjunto de letras usadas para a escrita de uma língua."
+    },
+    {
+        "word": "altar",
+        "meaning": "Estrutura elevada onde são realizadas cerimônias religiosas."
+    },
+    {
+        "word": "andarilho",
+        "meaning": "Pessoa que anda longas distâncias, geralmente sem um destino fixo."
+    },
+    {
+        "word": "arte",
+        "meaning": "Expressão criativa da imaginação humana, especialmente em formas visuais, auditivas ou performativas."
+    },
+    {
+        "word": "autor",
+        "meaning": "Pessoa que cria uma obra literária, artística ou científica."
+    },
+    {
+        "word": "avó",
+        "meaning": "Mãe de um dos pais de uma pessoa."
+    },
+    {
+        "word": "avô",
+        "meaning": "Pai de um dos pais de uma pessoa."
+    },
+    {
+        "word": "amiga",
+        "meaning": "Pessoa do sexo feminino com quem se tem uma relação de amizade."
+    },
+    {
+        "word": "amigo",
+        "meaning": "Pessoa do sexo masculino com quem se tem uma relação de amizade."
+    },
+    {
+        "word": "alecrim",
+        "meaning": "Planta aromática utilizada como tempero na culinária."
+    },
+    {
+        "word": "alface",
+        "meaning": "Hortaliça de folhas verdes e crocantes, usada em saladas."
+    },
+    {
+        "word": "areia",
+        "meaning": "Material granular solto que ocorre em praias, desertos e margens de rios."
+    },
+    {
+        "word": "algodão",
+        "meaning": "Fibra branca e macia utilizada para fabricar tecidos."
+    },
+    {
+        "word": "anel",
+        "meaning": "Aro ornamental usado no dedo, geralmente de metal precioso."
+    },
+    {
+        "word": "banana",
+        "meaning": "Fruto da bananeira, alongado e de casca amarela, muito consumido no mundo inteiro."
+    },
+    {
+        "word": "bicicleta",
+        "meaning": "Veículo de duas rodas movido por pedais."
+    },
+    {
+        "word": "borboleta",
+        "meaning": "Inseto lepidóptero com asas grandes e coloridas."
+    },
+    {
+        "word": "brincar",
+        "meaning": "Participar de atividades recreativas ou jogos."
+    },
+    {
+        "word": "bola",
+        "meaning": "Objeto esférico usado em vários esportes e brincadeiras."
+    },
+    {
+        "word": "biblioteca",
+        "meaning": "Local onde se guardam livros e outros materiais de leitura para consulta e empréstimo."
+    },
+    {
+        "word": "banho",
+        "meaning": "Ato de lavar o corpo em água."
+    },
+    {
+        "word": "beijo",
+        "meaning": "Toque ou pressão dos lábios contra alguém ou algo, como sinal de carinho ou afeto."
+    },
+    {
+        "word": "baleia",
+        "meaning": "Mamífero marinho de grande porte, pertencente à ordem dos cetáceos."
+    },
+    {
+        "word": "barco",
+        "meaning": "Embarcação de pequeno ou médio porte usada para navegação."
+    },
+    {
+        "word": "beleza",
+        "meaning": "Qualidade do que é belo ou agradável aos sentidos."
+    },
+    {
+        "word": "branco",
+        "meaning": "Cor que reflete todas as cores do espectro luminoso."
+    },
+    {
+        "word": "banco",
+        "meaning": "Estabelecimento financeiro que realiza operações de crédito e depósito."
+    },
+    {
+        "word": "bandeira",
+        "meaning": "Pedaço de tecido, geralmente retangular, com cores e desenhos, usado como símbolo de um país ou grupo."
+    },
+    {
+        "word": "barriga",
+        "meaning": "Parte do corpo entre o tórax e a pelve, onde estão localizados o estômago e os intestinos."
+    },
+    {
+        "word": "botão",
+        "meaning": "Pequeno objeto utilizado para fechar roupas, acionando-o em uma casa ou orifício."
+    },
+    {
+        "word": "bateria",
+        "meaning": "Conjunto de instrumentos de percussão usados em bandas e orquestras."
+    },
+    {
+        "word": "boca",
+        "meaning": "Abertura na face, através da qual se ingere alimentos e se produz sons vocais."
+    },
+    {
+        "word": "brasa",
+        "meaning": "Fragmento de matéria combustível que arde sem chama."
+    },
+    {
+        "word": "bicho",
+        "meaning": "Animal, especialmente um que não seja humano."
+    },
+    {
+        "word": "barulho",
+        "meaning": "Som alto e perturbador."
+    },
+    {
+        "word": "bigode",
+        "meaning": "Conjunto de pelos que crescem acima do lábio superior de alguns homens."
+    },
+    {
+        "word": "balão",
+        "meaning": "Objeto esférico, geralmente de borracha, que se enche de ar ou gás."
+    },
+    {
+        "word": "biscoito",
+        "meaning": "Produto alimentício seco e crocante, geralmente feito de farinha, açúcar e outros ingredientes."
+    },
+    {
+        "word": "balsa",
+        "meaning": "Embarcação plana usada para transportar pessoas ou veículos através de um corpo de água."
+    },
+    {
+        "word": "bactéria",
+        "meaning": "Microrganismo unicelular que pode ser encontrado em vários ambientes e pode causar doenças."
+    },
+    {
+        "word": "beleza",
+        "meaning": "Qualidade do que é belo ou agradável aos sentidos."
+    },
+    {
+        "word": "buzina",
+        "meaning": "Dispositivo sonoro usado em veículos para avisar outros motoristas ou pedestres."
+    },
+    {
+        "word": "bebida",
+        "meaning": "Líquido consumido para matar a sede, especialmente água ou refrescos."
+    },
+    {
+        "word": "barraca",
+        "meaning": "Estrutura temporária de lona ou tecido usada como abrigo ao ar livre."
+    },
+    {
+        "word": "batata",
+        "meaning": "Tubérculo comestível, rico em amido, usado como alimento."
+    },
+    {
+        "word": "braço",
+        "meaning": "Parte do corpo humano que vai do ombro ao pulso."
+    },
+    {
+        "word": "botânica",
+        "meaning": "Estudo científico das plantas."
+    },
+    {
+        "word": "bruxa",
+        "meaning": "Figura mítica, geralmente uma mulher, associada à magia e encantamentos."
+    },
+    {
+        "word": "balanço",
+        "meaning": "Movimento de vai e vem; estrutura de recreação infantil composta de um assento suspenso por cordas ou correntes."
+    },
+    {
+        "word": "bambu",
+        "meaning": "Planta tropical de caule oco e resistente, usada em construções e artesanato."
+    },
+    {
+        "word": "barata",
+        "meaning": "Inseto noturno, de corpo achatado, que vive em lugares úmidos e escuros."
+    },
+    {
+        "word": "bandeja",
+        "meaning": "Utensílio plano usado para transportar e servir alimentos e bebidas."
+    },
+    {
+        "word": "barril",
+        "meaning": "Recipiente cilíndrico de madeira ou metal, usado para armazenar líquidos, especialmente bebidas alcoólicas."
+    },
+    {
+        "word": "bancada",
+        "meaning": "Mesa de trabalho, especialmente em laboratórios ou oficinas."
+    },
+    {
+        "word": "cachorro",
+        "meaning": "Animal mamífero da família dos canídeos, geralmente considerado como animal de estimação."
+    },
+    {
+        "word": "casa",
+        "meaning": "Edifício destinado a habitação."
+    },
+    {
+        "word": "carro",
+        "meaning": "Veículo automotor de quatro rodas, usado para transporte de pessoas e mercadorias."
+    },
+    {
+        "word": "cachoeira",
+        "meaning": "Queda d'água natural, geralmente encontrada em rios."
+    },
+    {
+        "word": "café",
+        "meaning": "Bebida feita a partir dos grãos torrados do cafeeiro."
+    },
+    {
+        "word": "camisa",
+        "meaning": "Peça de roupa que cobre o tronco, geralmente com botões e colarinho."
+    },
+    {
+        "word": "cavalo",
+        "meaning": "Animal mamífero utilizado para transporte e trabalho."
+    },
+    {
+        "word": "cabelo",
+        "meaning": "Conjunto de fios que crescem no couro cabeludo humano."
+    },
+    {
+        "word": "cidade",
+        "meaning": "Área urbana com uma grande densidade populacional e infraestrutura desenvolvida."
+    },
+    {
+        "word": "cinema",
+        "meaning": "Lugar onde se exibem filmes; arte de fazer filmes."
+    },
+    {
+        "word": "computador",
+        "meaning": "Máquina eletrônica que processa dados e executa programas."
+    },
+    {
+        "word": "caneta",
+        "meaning": "Instrumento usado para escrever com tinta."
+    },
+    {
+        "word": "cadeira",
+        "meaning": "Móvel com encosto, usado para sentar."
+    },
+    {
+        "word": "cachimbo",
+        "meaning": "Objeto usado para fumar tabaco."
+    },
+    {
+        "word": "calça",
+        "meaning": "Peça de vestuário que cobre as pernas."
+    },
+    {
+        "word": "chuva",
+        "meaning": "Precipitação de água líquida que cai das nuvens."
+    },
+    {
+        "word": "coração",
+        "meaning": "Órgão que bombeia o sangue no corpo."
+    },
+    {
+        "word": "caixa",
+        "meaning": "Recipiente usado para guardar ou transportar objetos."
+    },
+    {
+        "word": "cimento",
+        "meaning": "Material de construção usado como aglutinante."
+    },
+    {
+        "word": "cebola",
+        "meaning": "Hortaliça comestível de sabor picante e odor forte, usada como tempero."
+    },
+    {
+        "word": "celular",
+        "meaning": "Aparelho portátil usado para comunicação telefônica."
+    },
+    {
+        "word": "creme",
+        "meaning": "Substância pastosa usada para fins cosméticos ou culinários."
+    },
+    {
+        "word": "caderno",
+        "meaning": "Conjunto de folhas de papel encadernadas, usado para escrever."
+    },
+    {
+        "word": "cimento",
+        "meaning": "Material pulverulento que, misturado com água, forma uma pasta que endurece."
+    },
+    {
+        "word": "cultura",
+        "meaning": "Conjunto de manifestações artísticas, sociais e intelectuais de um povo."
+    },
+    {
+        "word": "cachoeira",
+        "meaning": "Queda de água que ocorre em rios."
+    },
+    {
+        "word": "costume",
+        "meaning": "Hábito ou prática socialmente aceita em uma cultura ou sociedade."
+    },
+    {
+        "word": "cesta",
+        "meaning": "Recipiente entrelaçado de vime ou outro material, usado para carregar objetos."
+    },
+    {
+        "word": "cozinha",
+        "meaning": "Lugar da casa onde se preparam alimentos."
+    },
+    {
+        "word": "corrida",
+        "meaning": "Ato de correr, competição de velocidade."
+    },
+    {
+        "word": "casa",
+        "meaning": "Edifício destinado a habitação."
+    },
+    {
+        "word": "conta",
+        "meaning": "Dívida ou valor a pagar por um serviço ou produto."
+    },
+    {
+        "word": "cachimbo",
+        "meaning": "Objeto usado para fumar tabaco."
+    },
+    {
+        "word": "caminhão",
+        "meaning": "Veículo automotor de grande porte usado para transporte de cargas."
+    },
+    {
+        "word": "curso",
+        "meaning": "Conjunto de aulas ou treinamentos com um objetivo educacional."
+    },
+    {
+        "word": "cabelo",
+        "meaning": "Conjunto de fios que crescem no couro cabeludo humano."
+    },
+    {
+        "word": "colher",
+        "meaning": "Utensílio de cozinha usado para mexer ou servir alimentos líquidos ou pastosos."
+    },
+    {
+        "word": "caixa",
+        "meaning": "Recipiente usado para guardar ou transportar objetos."
+    },
+    {
+        "word": "coração",
+        "meaning": "Órgão que bombeia o sangue no corpo."
+    },
+    {
+        "word": "cobertor",
+        "meaning": "Peça de tecido usada para cobrir e aquecer durante o sono."
+    },
+    {
+        "word": "dado",
+        "meaning": "Objeto cúbico usado em jogos, com faces numeradas de 1 a 6."
+    },
+    {
+        "word": "dança",
+        "meaning": "Movimento rítmico do corpo, geralmente acompanhado de música."
+    },
+    {
+        "word": "dedo",
+        "meaning": "Cada uma das extremidades móveis da mão ou do pé."
+    },
+    {
+        "word": "dentista",
+        "meaning": "Profissional especializado no cuidado dos dentes."
+    },
+    {
+        "word": "desenho",
+        "meaning": "Representação gráfica feita à mão ou por meio de um programa de computador."
+    },
+    {
+        "word": "dia",
+        "meaning": "Período de 24 horas; parte do dia em que há luz solar."
+    },
+    {
+        "word": "dinheiro",
+        "meaning": "Moeda ou papel-moeda usado como meio de troca."
+    },
+    {
+        "word": "doce",
+        "meaning": "Alimento de sabor açucarado."
+    },
+    {
+        "word": "doente",
+        "meaning": "Pessoa que está com problemas de saúde."
+    },
+    {
+        "word": "domínio",
+        "meaning": "Controle ou poder sobre algo ou alguém."
+    },
+    {
+        "word": "dúvida",
+        "meaning": "Incerteza sobre a verdade ou a exatidão de algo."
+    },
+    {
+        "word": "duro",
+        "meaning": "Algo que não é mole ou flexível."
+    },
+    {
+        "word": "diafragma",
+        "meaning": "Músculo que separa o tórax do abdômen e auxilia na respiração."
+    },
+    {
+        "word": "dentadura",
+        "meaning": "Prótese que substitui os dentes perdidos."
+    },
+    {
+        "word": "dedal",
+        "meaning": "Peça usada para proteger o dedo ao costurar."
+    },
+    {
+        "word": "dado",
+        "meaning": "Pequeno cubo usado em jogos, com números em cada face."
+    },
+    {
+        "word": "disco",
+        "meaning": "Objeto plano e circular; gravação musical em formato circular."
+    },
+    {
+        "word": "dinossauro",
+        "meaning": "Grande réptil pré-histórico que viveu há milhões de anos."
+    },
+    {
+        "word": "diamante",
+        "meaning": "Mineral precioso, o mais duro conhecido, usado em joalheria."
+    },
+    {
+        "word": "dançarino",
+        "meaning": "Pessoa que dança profissionalmente."
+    },
+    {
+        "word": "descanso",
+        "meaning": "Período de repouso e relaxamento."
+    },
+    {
+        "word": "doença",
+        "meaning": "Alteração da saúde que afeta o funcionamento normal do corpo."
+    },
+    {
+        "word": "documento",
+        "meaning": "Registro escrito que serve como prova ou informação."
+    },
+    {
+        "word": "dedicação",
+        "meaning": "Empenho e esforço constante em uma atividade ou causa."
+    },
+    {
+        "word": "disfarce",
+        "meaning": "Vestimenta ou maquiagem usada para esconder a identidade."
+    },
+    {
+        "word": "diversão",
+        "meaning": "Atividade ou entretenimento que proporciona prazer e lazer."
+    },
+    {
+        "word": "democracia",
+        "meaning": "Sistema de governo onde o poder é exercido pelo povo, diretamente ou através de representantes eleitos."
+    },
+    {
+        "word": "diferente",
+        "meaning": "Algo que não é igual, que possui distinções."
+    },
+    {
+        "word": "divórcio",
+        "meaning": "Dissolução legal de um casamento."
+    },
+    {
+        "word": "dieta",
+        "meaning": "Regime alimentar específico, geralmente com objetivo de perder peso ou melhorar a saúde."
+    },
+    {
+        "word": "dedo-duro",
+        "meaning": "Pessoa que delata ou denuncia os outros."
+    },
+    {
+        "word": "desfile",
+        "meaning": "Marcha organizada de pessoas ou veículos para mostrar algo ao público."
+    },
+    {
+        "word": "desenrolar",
+        "meaning": "Desfazer o que está enrolado; desenvolver uma ação."
+    },
+    {
+        "word": "diretor",
+        "meaning": "Pessoa que dirige ou administra uma empresa, escola ou organização."
+    },
+    {
+        "word": "demônio",
+        "meaning": "Ser sobrenatural maligno."
+    },
+    {
+        "word": "dócil",
+        "meaning": "Algo ou alguém que é fácil de manejar ou ensinar."
+    },
+    {
+        "word": "droga",
+        "meaning": "Substância que altera o funcionamento do corpo, podendo ser usada medicinalmente ou de forma recreativa."
+    },
+    {
+        "word": "drama",
+        "meaning": "Gênero de narrativa ou peça teatral que aborda situações sérias e emocionais."
+    },
+    {
+        "word": "dublagem",
+        "meaning": "Substituição da voz original de um filme ou programa por outra voz, geralmente em outro idioma."
+    },
+    {
+        "word": "dueto",
+        "meaning": "Composição musical para dois instrumentos ou vozes."
+    }
+]
