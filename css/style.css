@@ -48,7 +48,7 @@ input[type="text"] {
     height: 44px;
     border: none;
     border-radius: 22px;
-    box-shadow: 0px 0px 8px #24242440;
+    background: #ffffff;
     font-size: 16px;
     padding-left: 48px;
     outline: none;
@@ -67,16 +67,17 @@ input[type="text"] {
 
 ul#suggestions {
     width: 500px;
+    min-height: 44px;
     max-height: calc(9 * 44px);
     position: absolute;
-    top: 140px;
-    border-radius: 0px 0px 22px 22px;
+    top: 118px;
+    border-radius: 22px;
     background-color: #ffffff;
     box-shadow: 0px 0px 8px #24242440;
     z-index: 9;
     overflow: auto;
     list-style: none;
-    padding-top: 22px;
+    padding-top: 44px;
     transition: .5s;
 }
 
