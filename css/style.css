@@ -123,6 +123,7 @@ footer {
 
     main,
     ul#suggestions,
+    #definition,
     .busca {
         width: 300px;
     }
